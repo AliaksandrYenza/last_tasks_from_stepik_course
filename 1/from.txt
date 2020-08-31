@@ -1,0 +1,3 @@
+Spakta;9;Totlu;1
+Godka;21;Boboom;3
+Voda;3;Totlu;2
